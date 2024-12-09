@@ -54,9 +54,9 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
 ## Application config
-run 
-cp .env.example .env
-composer install
+run <br>
+cp .env.example .env<br>
+composer install<br>
 php artisan key:generate
 
 
